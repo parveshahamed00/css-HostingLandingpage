@@ -6,7 +6,7 @@ This is my assignment designed for [iNeuron.](https://ineuron.ai/)
 ## Screenshot
 
 ![App Screenshot](gif/gif.gif)
->note: Responsive design under construction 🛠️
+
 
 [Live Demo](https://parveshahamed-hosting-landing-page.netlify.app/)
 
@@ -16,7 +16,7 @@ By building this assignment I've learned css and it's major concepts. It took mo
 
 ## 🚀 About Me
 
-19 ♂, Student doing BSc Information Technology, Fullstack Developer🧑‍💻.
+19, Student doing BSc Information Technology, Fullstack Developer🧑‍💻.
 
 ## 💼 Technical Skills
 
